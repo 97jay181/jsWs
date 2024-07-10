@@ -1,0 +1,6 @@
+#jdbc driver
+#Tue Jul 09 12:02:02 KST 2024
+password=system1234
+driver=mysql.jdbc.driver.MYSQLDriver
+url=jdbc\:mysql\://localhost\:3306
+username=admin
