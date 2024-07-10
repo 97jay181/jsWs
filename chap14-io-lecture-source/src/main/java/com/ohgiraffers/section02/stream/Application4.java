@@ -20,6 +20,8 @@ public class Application4 {
             fw = new FileWriter("src/main/com/ohgiraffers/section02/stream/testWriter.txt");
         } catch (IOException e) {
             throw new RuntimeException(e);
+
+
         }
     }
 }
