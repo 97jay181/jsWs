@@ -1,0 +1,2 @@
+This is Java.
+이건 Java야.
